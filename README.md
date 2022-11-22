@@ -1,4 +1,5 @@
 # vue-shop1
+<img src="">
 
 ## Project setup
 ```
