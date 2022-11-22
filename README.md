@@ -1,5 +1,5 @@
 # vue-shop1
-<img src="">
+<img src="https://github.com/happychristian777/vue-shop/blob/master/Screenshot_1.png">
 
 ## Project setup
 ```
